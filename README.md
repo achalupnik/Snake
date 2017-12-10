@@ -1,2 +1,2 @@
 # Snake
-writen in C++
+written in C++
